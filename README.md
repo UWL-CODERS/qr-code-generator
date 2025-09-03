@@ -46,6 +46,13 @@ The generated QR code will be saved in the `output/` directory.
 
 ## Example
 
+```
+Enter website link: https://coders.cs.uwlax.edu
+Enter file name (default: qr_code): coders_website
+Enter QR code version/density (1-40, default: None): 
+Enter path to logo file (default: assets/qr_logo.png): 
+```
+
 <img src="output/coders_website.png" alt="Example QR Code" width="50%">
 
 [img-discord]: <https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FUGupy2CVVq%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&style=for-the-badge&label=Discord&color=5865F2&logoColor=white&labelColor=black&logo=discord>
