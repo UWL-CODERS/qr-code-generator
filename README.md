@@ -49,6 +49,6 @@ The generated QR code will be saved in the `output/` directory.
 <img src="output/coders_website.png" alt="Example QR Code" width="50%">
 
 [img-discord]: <https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FUGupy2CVVq%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&style=for-the-badge&label=Discord&color=5865F2&logoColor=white&labelColor=black&logo=discord>
-[img-github]: <https://img.shields.io/github/stars/UWL-CODERS/CODERS_Website?style=for-the-badge&label=Stars&color=white&logoColor=white&labelColor=black&logo=github>
+[img-github]: <https://img.shields.io/github/stars/UWL-CODERS/qr-code-generator?style=for-the-badge&label=Stars&color=white&logoColor=white&labelColor=black&logo=github>
 [url-discord]: <https://discord.gg/UGupy2CVVq>
-[url-github]: <https://github.com/UWL-CODERS/CODERS_Website>
+[url-github]: <https://github.com/UWL-CODERS/qr-code-generator>
