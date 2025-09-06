@@ -38,7 +38,7 @@ python generate_qr.py
 
 You will be prompted for:
 - Website link
-- Output file name
+- Output file name (recommended)
 - QR code version/density (optional)
 - Logo file path (optional)
 
